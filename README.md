@@ -23,7 +23,7 @@
 * 数学公式复习
 * 常用复杂度函数公式O(?)
 
-#### [Day02 -  栈](https://mp.weixin.qq.com/s/vcVoqV-KNNTb8vnoLcds2A)
+#### [Day02 -  栈](https://mp.weixin.qq.com/s/3_k0ndSVzVJLzdV3hLlwzg)
 * 栈的特性
 * 动画描述
 * 栈最常见的场景及算法
@@ -66,3 +66,34 @@
 * 主要代码实现
 * 代码思路描述
 * GitHubDemo
+
+#### [Day09 - iOS中数组的算法分析](https://mp.weixin.qq.com/s/Em_ctMuaFKQhML3QoIfvyg)
+* 前言
+* iOS中数组是怎么优化的呢？
+* 结合数组API来分析
+* 推荐阅读
+* GitHubDemo地址
+
+#### [Day10 - 队列](https://mp.weixin.qq.com/s/1Yhox83ecSGIO7NwvTUtNQ)
+* 队列的特性
+* 有几个注意的地方。
+* 主要代码讲解
+* 总结
+* GitHubDemo地址
+
+#### [Day11 - 双端队列](https://mp.weixin.qq.com/s/c9a7L8P2ozNjxIeuLBgX0w)
+* 双端队列的特性
+* 优化思路
+* 主要代码实现以及讲解
+* GitHubDemo地址
+#### [Day12 - 树](https://mp.weixin.qq.com/s/vpeUr9XaHEiFyxXew_2xpQ)
+* 前言
+* 树的一些应用场景
+
+#### [Day13 - Binary Tree上](https://mp.weixin.qq.com/s/6dfqF59PVSgOn7zC7ra7Ng)
+* 一张图来描述Binary Tree
+* Binary Tree的几个常见类型
+* 和Binary Tree有关的一些公式
+* 二叉树的存储方式
+
+
